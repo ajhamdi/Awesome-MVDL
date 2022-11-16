@@ -9,7 +9,7 @@ awesome list of multi-view deep learning papers for 3D understanding and generat
 
 #### ElasticMVS: Learning elastic part representation for self-supervised multi-view stereopsis
 
-- ![Publication](https://img.shields.io/badge/2022-NeurIPS-480ca8) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/forum?id=lAN7mytwrIy) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/attachment?id=lAN7mytwrIy&name=supplementary_material)
+- ![Publication](https://img.shields.io/badge/2022-NeurIPS-green) [![Paper](https://img.shields.io/badge/Camera--Ready-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/forum?id=lAN7mytwrIy) [![Supp](https://img.shields.io/badge/Supplementary-PDF-f5cac3?logo=adobeacrobatreader&logoColor=red)](https://openreview.net/attachment?id=lAN7mytwrIy&name=supplementary_material)
 - ![Image](https://raw.githubusercontent.com/asvaling/image-hosting/main/img/20221113170157.png)
 
 #### WT-MVSNet: Window-based Transformers for Multi-view Stereo
